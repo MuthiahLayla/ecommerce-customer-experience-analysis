@@ -49,6 +49,8 @@ The main objective is to identify the key factors influencing customer satisfact
 
 ## 📁 Repository Structure
 ```text
+├──data/
+│   └── ecommerce_sales_analytics_5000.csv
 ├── E-commerce Customer Experience Analysis.ipynb  # Jupyter Notebook containing EDA & statistical analysis
 ├── query.sql                                       # SQL scripts used for database creation & setup
 └── assets/                                         # Dashboard screenshots & images
