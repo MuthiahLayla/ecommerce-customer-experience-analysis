@@ -41,8 +41,7 @@ The main objective is to identify the key factors influencing customer satisfact
 ---
 
 ## 📊 Dashboard Preview
-*(Upload your Looker Studio screenshot into the `assets/` folder and link it here)*
-
+![Looker Studio Dashboard Preview](assets/dashboard-preview.png)
 👉 **[View Live Looker Studio Dashboard](https://datastudio.google.com/reporting/358a4fae-5f1c-4fb7-8e32-39a0dcc2ed78)**
 
 ---
@@ -53,4 +52,5 @@ The main objective is to identify the key factors influencing customer satisfact
 │   └── ecommerce_sales_analytics_5000.csv
 ├── E-commerce Customer Experience Analysis.ipynb  # Jupyter Notebook containing EDA & statistical analysis
 ├── query.sql                                       # SQL scripts used for database creation & setup
-└── assets/                                         # Dashboard screenshots & images
+└── assets/
+    └── dashboard-preview.png                                       # Dashboard screenshots & 
